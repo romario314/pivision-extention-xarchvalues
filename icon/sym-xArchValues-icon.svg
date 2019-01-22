@@ -1,0 +1,29 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="141px" height="108px" viewBox="-0.5 -0.5 141 108" content="&lt;mxfile modified=&quot;2019-01-15T04:44:21.411Z&quot; agent=&quot;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36&quot; etag=&quot; " style="background-color: rgb(255, 255, 255);">
+<defs>
+	<clipPath id="mx-clip-4-31-132-26-0">
+		<rect x="4" y="31" width="132" height="26"/>
+	</clipPath>
+	<clipPath id="mx-clip-4-57-132-26-0">
+		<rect x="4" y="57" width="132" height="26"/>
+	</clipPath>
+	<clipPath id="mx-clip-4-83-132-26-0">
+		<rect x="4" y="83" width="132" height="26"/>
+	</clipPath>
+</defs>
+<path d="M 0 26 L 0 0 L 140 0 L 140 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+<path d="M 0 26 L 0 104 L 140 104 L 140 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+<path d="M 0 26 L 140 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+	<text x="69.5" y="17.5">List</text>
+</g>
+<g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-31-132-26-0)" font-size="12px">
+	<text x="5.5" y="43.5">Item 1</text>
+</g>
+<g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-57-132-26-0)" font-size="12px">
+	<text x="5.5" y="69.5">Item 2</text>
+</g>
+<g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-83-132-26-0)" font-size="12px">
+	<text x="5.5" y="95.5">Item 3</text>
+</g>
+</svg>

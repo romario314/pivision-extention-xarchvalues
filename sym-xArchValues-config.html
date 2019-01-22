@@ -1,0 +1,22 @@
+<ul kendo-panel-bar class="t-side-panel-bgcolor" style="font-size: 14px;"> 
+	<li class="k-state-active"> 
+		<span class="panel-bar-label-no-wrap">Configuration</span>
+		<div class="config-option-single-row" style="margin:10px 20px; font-size: 14px;"> 
+			<div class="config-option-ie11-overflow-fix">
+				<div class="config-label">Number of values</div>
+				<!-- Input for Number of values filter -->
+				<input ng-model="config.NumberOfValues" type="number" min="0" max="400" style="width:100px; height:100%; float:right; margin-right:25px;">
+				<!-- Top Header color picker -->
+				<div>
+					<pv-color-picker colorkeyword="Top Header Color", ng-model="config.TopHeaderColor"></pv-color-picker>
+				</div>				
+				<!-- Left Header color picker -->
+				<div>
+					<pv-color-picker colorkeyword="Left Header Color", ng-model="config.LeftHeaderColor"></pv-color-picker>
+				</div>
+				
+				
+			</div>
+		</div> 
+	</li>
+</ul>
